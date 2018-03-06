@@ -30,4 +30,4 @@ Il nous faudra aussi bien évidemment terminer la première visualisation commen
 
 # Planning prévisionnel
 
-![alt text](https://imgur.com/a/7VGdb)
+![planning](https://image.noelshack.com/fichiers/2018/10/2/1520303009-planning.png)
