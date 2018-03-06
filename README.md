@@ -15,8 +15,8 @@ Une fois ces informations extraites, il nous faudra les représenter d’une man
 
 # Travail réalisé
 
-[Notebook python mettant en valeur les coordonnées GPS des 3 personnes constituants nos données sur une heatmap](http://nbviewer.jupyter.org/github/AmigoCap/CampusFlow/blob/master/01-Etude_preliminaire.ipynb)
-[Notebook python permettant de juger de la qualité des données et de commencer à les nettoyer](http://nbviewer.jupyter.org/github/AmigoCap/CampusFlow/blob/master/02-Donn%C3%A9es_Test.ipynb)
+[Notebook python mettant en valeur les coordonnées GPS des 3 personnes constituants nos données sur une heatmap](http://nbviewer.jupyter.org/github/AmigoCap/CampusFlow/blob/master/01-Etude_preliminaire.ipynb)  
+[Notebook python permettant de juger de la qualité des données et de commencer à les nettoyer](http://nbviewer.jupyter.org/github/AmigoCap/CampusFlow/blob/master/02-Donn%C3%A9es_Test.ipynb)  
 [Commencement d'une visualition possible des déplacements avec D3.js](https://bl.ocks.org/LucLafond/raw/a3e8b9c7bff410ee8cad977009cb64c0/fd4b009ea4764f23670ef742dee94e431f290131/)
 
 ==========================================
