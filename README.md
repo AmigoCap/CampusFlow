@@ -17,14 +17,14 @@ Une fois ces informations extraites, il nous faudra les représenter d’une man
 
 [Notebook python mettant en valeur les coordonnées GPS des 3 personnes constituants nos données sur une heatmap](http://nbviewer.jupyter.org/github/AmigoCap/CampusFlow/blob/master/01-Etude_preliminaire.ipynb)  
 [Notebook python permettant de juger de la qualité des données et de commencer à les nettoyer](http://nbviewer.jupyter.org/github/AmigoCap/CampusFlow/blob/master/02-Donn%C3%A9es_Test.ipynb)  
-[Commencement d'une visualition possible des déplacements avec D3.js](https://bl.ocks.org/LucLafond/raw/a3e8b9c7bff410ee8cad977009cb64c0/fd4b009ea4764f23670ef742dee94e431f290131/)
+[Commencement d'une visualition possible des déplacements avec D3.js](https://bl.ocks.org/LucLafond/raw/a3e8b9c7bff410ee8cad977009cb64c0/fd4b009ea4764f23670ef742dee94e431f290131/)  
+[Notebook python représentant les trajectoires des personnes dans un graphe](http://nbviewer.jupyter.org/github/AmigoCap/CampusFlow/blob/master/03_Affichage_dynamique_de_trajectoire.ipynb)  
 
 ==========================================
 
 # Travail à continuer
 
-Le nettoyage des données et une études plus poussées de leurs distributions doivent encore être réalisé.
-Il nous faudra aussi bien évidemment terminer la première visualisation commencée sous D3.js.
+Le nettoyage des données et une étude plus poussées de leurs distributions doivent encore être réalisé.
 
 ==========================================
 
