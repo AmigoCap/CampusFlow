@@ -30,12 +30,20 @@ Le nettoyage des données et une étude plus poussées de leurs distributions do
 
 # Planning prévisionnel
 
+| **Semaine** | **Travail** |
+| ----------- | ----------- |
+| 15/10/17           | Mise en forme        |
+| 12/10/17      | Corrections mineures |
+| 11/10/17          | Création             |
+
 ![planning](https://image.noelshack.com/fichiers/2018/10/2/1520303009-planning.png)
+
+
 
 ==========================================
 
 # Comment utiliser
 
-Nos notebook sont compilés via jupyter notebook.  
+Nos notebook sont exécuté via [jupyter notebook](http://jupyter.org/).  
 Pour les dépendances nécessaires, utiliser le requirements.txt.  
 ```$ [sudo -H] pip install -r requirements.txt```
