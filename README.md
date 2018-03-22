@@ -31,3 +31,11 @@ Le nettoyage des données et une étude plus poussées de leurs distributions do
 # Planning prévisionnel
 
 ![planning](https://image.noelshack.com/fichiers/2018/10/2/1520303009-planning.png)
+
+==========================================
+
+# Comment utiliser
+
+Nos notebook sont compilés via jupyter notebook.  
+Pour les dépendances nécessaires, utiliser le requirement.txt.  
+```$ [sudo -H] pip install -r requirements.txt```
