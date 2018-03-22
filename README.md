@@ -37,5 +37,5 @@ Le nettoyage des données et une étude plus poussées de leurs distributions do
 # Comment utiliser
 
 Nos notebook sont compilés via jupyter notebook.  
-Pour les dépendances nécessaires, utiliser le requirement.txt.  
+Pour les dépendances nécessaires, utiliser le requirements.txt.  
 ```$ [sudo -H] pip install -r requirements.txt```
